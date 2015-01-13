@@ -1,0 +1,13 @@
+body
+{
+    height:100%;
+    background-color:lightgoldenrodyellow;
+}
+
+h1
+{
+    font-family:'Times New Roman';
+    font-size:large;
+    text-align:center;
+    text-decoration:underline;
+}
