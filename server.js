@@ -14,7 +14,7 @@ app.use(bodyParser());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded(
 			{
-				extended: false
+				  extended: false
 			}));	
  
 app.use(express.static('public'));  // gives access to the public folder contents statically with internet connection to anyone
